@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Placemark>
+<name>Dado 1</name>
+<Point>
+<coordinates>-49.309100166015966,-28.650755381271416</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 2</name>
+<Point>
+<coordinates>-49.35406772185524,-28.683696720629786</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 3</name>
+<Point>
+<coordinates>-49.37371652973216,-28.726371648411618</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 4</name>
+<Point>
+<coordinates>-49.38307068002925,-28.662157271889257</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 5</name>
+<Point>
+<coordinates>-49.402020795950484,-28.702869437762608</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 6</name>
+<Point>
+<coordinates>-49.39878547713212,-28.741928984237152</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 7</name>
+<Point>
+<coordinates>-49.35465436704187,-28.669630424475223</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 8</name>
+<Point>
+<coordinates>-49.399984528116136,-28.744165444446683</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 9</name>
+<Point>
+<coordinates>-49.3812384629628,-28.67271050699609</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 10</name>
+<Point>
+<coordinates>-49.37761902430037,-28.819001896049468</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 11</name>
+<Point>
+<coordinates>-49.377948493649235,-28.82033531131318</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 12</name>
+<Point>
+<coordinates>-49.378696763901985,-28.820333385592907</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 13</name>
+<Point>
+<coordinates>-49.379730040981514,-28.819336433947708</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 14</name>
+<Point>
+<coordinates>-49.3803953172999,-28.819737518361592</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 15</name>
+<Point>
+<coordinates>-49.38083008322028,-28.81916229554945</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 16</name>
+<Point>
+<coordinates>-49.384085842186195,-28.71781225233208</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 17</name>
+<Point>
+<coordinates>-49.38409677884343,-28.717660231618677</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 18</name>
+<Point>
+<coordinates>-49.384466601220694,-28.717955957904618</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 19</name>
+<Point>
+<coordinates>-49.384473490592036,-28.71741457609651</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 20</name>
+<Point>
+<coordinates>-49.38448948731259,-28.717266315780485</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 21</name>
+<Point>
+<coordinates>-49.3835185829442,-28.71540453088352</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 22</name>
+<Point>
+<coordinates>-49.38353100008197,-28.71527608156882</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 23</name>
+<Point>
+<coordinates>-49.37410406836565,-28.65158496031236</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 24</name>
+<Point>
+<coordinates>-49.39580563237865,-28.68508979932688</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 25</name>
+<Point>
+<coordinates>-49.381271745200415,-28.672569040650437</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 26</name>
+<Point>
+<coordinates>-49.37646920885593,-28.82058093726765</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 27</name>
+<Point>
+<coordinates>-49.40655813350933,-28.681897171675505</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 28</name>
+<Point>
+<coordinates>-49.39655280052365,-28.652814711673468</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 29</name>
+<Point>
+<coordinates>-49.434923630729784,-28.668711520831607</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 30</name>
+<Point>
+<coordinates>-49.434538793285796,-28.6687181715574</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 31</name>
+<Point>
+<coordinates>-49.376593181753556,-28.8197827895814</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 32</name>
+<Point>
+<coordinates>-49.373422988776426,-28.66949707409478</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 33</name>
+<Point>
+<coordinates>-49.38953690973238,-28.661331709081658</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 34</name>
+<Point>
+<coordinates>-49.390148273890645,-28.676596930596787</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 35</name>
+<Point>
+<coordinates>-49.41199608803703,-28.657917853904863</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 36</name>
+<Point>
+<coordinates>-49.415040493686334,-28.657368370441567</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 37</name>
+<Point>
+<coordinates>-49.37618860294737,-28.819771333410618</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 38</name>
+<Point>
+<coordinates>-49.37491774471065,-28.820511994424898</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 39</name>
+<Point>
+<coordinates>-49.39143158626842,-28.680655960988293</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 40</name>
+<Point>
+<coordinates>-49.39239422219188,-28.67937789258092</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 41</name>
+<Point>
+<coordinates>-49.44177042056887,-28.709472281708166</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 42</name>
+<Point>
+<coordinates>-49.37439976282382,-28.699984988287213</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 43</name>
+<Point>
+<coordinates>-49.3739907443304,-28.82052844016117</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 44</name>
+<Point>
+<coordinates>-49.37427542747912,-28.819788452870966</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 45</name>
+<Point>
+<coordinates>-49.37592955999665,-28.775436605640717</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 46</name>
+<Point>
+<coordinates>-49.362707537480304,-28.702066417296162</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 47</name>
+<Point>
+<coordinates>-49.40525897378095,-28.678824189240107</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 48</name>
+<Point>
+<coordinates>-49.448059481118875,-28.70992867374485</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 49</name>
+<Point>
+<coordinates>-49.3742847525032,-28.820111633435786</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 50</name>
+<Point>
+<coordinates>-49.35406772185524,-28.683696720629786</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 51</name>
+<Point>
+<coordinates>-49.37458385495624,-28.81922815298916</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 52</name>
+<Point>
+<coordinates>-49.35505556521233,-28.683690863175144</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 53</name>
+<Point>
+<coordinates>-49.354619893282624,-28.68525679996359</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 54</name>
+<Point>
+<coordinates>-49.354619893282624,-28.68525679996359</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 55</name>
+<Point>
+<coordinates>-49.38674055257702,-28.69699040905035</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 56</name>
+<Point>
+<coordinates>-49.39374417506084,-28.70010081099517</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 57</name>
+<Point>
+<coordinates>-49.39553937314786,-28.701099191063008</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 58</name>
+<Point>
+<coordinates>-49.39542981231329,-28.702685021198903</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 59</name>
+<Point>
+<coordinates>-49.40191137681439,-28.70458685373727</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 60</name>
+<Point>
+<coordinates>-49.40312561180109,-28.70394917583853</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 61</name>
+<Point>
+<coordinates>-49.40722398798239,-28.697341220675856</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 62</name>
+<Point>
+<coordinates>-49.40860723237717,-28.697424550235052</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 63</name>
+<Point>
+<coordinates>-49.40332293920564,-28.7002291835512</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 64</name>
+<Point>
+<coordinates>-49.402080961272404,-28.699004158056393</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 65</name>
+<Point>
+<coordinates>-49.4383307414777,-28.71000603048065</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 66</name>
+<Point>
+<coordinates>-49.43822480572755,-28.71144530401265</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 67</name>
+<Point>
+<coordinates>-49.460919065861034,-28.695919536629066</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 68</name>
+<Point>
+<coordinates>-49.45714540333478,-28.695847949097523</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 69</name>
+<Point>
+<coordinates>-49.322327390951806,-28.67735977302685</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 70</name>
+<Point>
+<coordinates>-49.32261722835663,-28.677960864137333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 71</name>
+<Point>
+<coordinates>-49.34275861026129,-28.669379012402068</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 72</name>
+<Point>
+<coordinates>-49.341728193973765,-28.66804252091137</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 73</name>
+<Point>
+<coordinates>-49.34208850919889,-28.66898862583346</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 74</name>
+<Point>
+<coordinates>-49.375041181998185,-28.66935433844134</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 75</name>
+<Point>
+<coordinates>-49.37342021191257,-28.776789923209588</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 76</name>
+<Point>
+<coordinates>-49.24800687572401,-28.671853933798058</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 77</name>
+<Point>
+<coordinates>-49.25191898698968,-28.67032953115687</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 78</name>
+<Point>
+<coordinates>-49.24874307171051,-28.671300896946164</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 79</name>
+<Point>
+<coordinates>-49.45187525670442,-28.710711965864014</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 80</name>
+<Point>
+<coordinates>-49.43486630255701,-28.699541110804546</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 81</name>
+<Point>
+<coordinates>-49.375472537207074,-28.716207036329394</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 82</name>
+<Point>
+<coordinates>-49.37523138836365,-28.720627889690995</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 83</name>
+<Point>
+<coordinates>-49.37468913606712,-28.72228131637613</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 84</name>
+<Point>
+<coordinates>-49.37492514097641,-28.725873235551656</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 85</name>
+<Point>
+<coordinates>-49.376332567843505,-28.72714281751913</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 86</name>
+<Point>
+<coordinates>-49.37579948986493,-28.725619056993477</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 87</name>
+<Point>
+<coordinates>-49.376701011168,-28.720975381235395</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 88</name>
+<Point>
+<coordinates>-49.365193090613715,-28.756968981224613</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 89</name>
+<Point>
+<coordinates>-49.365453294638115,-28.757791626683847</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 90</name>
+<Point>
+<coordinates>-49.36438200038637,-28.76265837225817</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 91</name>
+<Point>
+<coordinates>-49.36518118123389,-28.761906304531898</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 92</name>
+<Point>
+<coordinates>-49.36462063743184,-28.761324040583045</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 93</name>
+<Point>
+<coordinates>-49.364077284409284,-28.760408173747674</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 94</name>
+<Point>
+<coordinates>-49.36527821485227,-28.759300718621233</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 95</name>
+<Point>
+<coordinates>-49.44334598969001,-28.709314445072522</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 96</name>
+<Point>
+<coordinates>-49.39761118316552,-28.653601181002173</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 97</name>
+<Point>
+<coordinates>-49.374634247907615,-28.81892608658418</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 98</name>
+<Point>
+<coordinates>-49.38919320185143,-28.6713882872104</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 99</name>
+<Point>
+<coordinates>-49.36096922610341,-28.666435320670804</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 100</name>
+<Point>
+<coordinates>-49.36096922610341,-28.666435320670804</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 101</name>
+<Point>
+<coordinates>-49.3627867626511,-28.667967006364368</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 102</name>
+<Point>
+<coordinates>-49.35511761145448,-28.673296525924126</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dado 103</name>
+<Point>
+<coordinates>-49.35470919021058,-28.6736393620498</coordinates>
+</Point>
+</Placemark>
+</Document>
+</kml>
